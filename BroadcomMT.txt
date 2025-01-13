@@ -1,0 +1,122 @@
+
+---
+
+### **Spectrum Network Monitoring Tool: Checkpoint and Troubleshooting Document**
+
+#### **1. Purpose**
+Define the purpose of the checklist:
+- Ensure the Spectrum tool is functioning as expected.
+- Provide a systematic approach to identify issues, engage SMEs, and escalate cases to the vendor.
+- Minimize downtime and enhance operational efficiency in the Enterprise Command Center.
+
+---
+
+#### **2. Key Components of the Document**
+
+1. **Preliminary Checks (Daily/Periodic Health Checks)**
+    - Confirm the following components are operational:
+      - **Spectrum Server Health:**
+        - Server is powered on and reachable.
+        - CPU, memory, and disk usage are within thresholds.
+      - **Database Health:**
+        - Database is online and responsive.
+        - No abnormal growth or corruption in the database logs.
+      - **Service Status:**
+        - All Spectrum services (OneClick, SpectroSERVER, etc.) are running.
+        - No unexpected restarts or crashes in the last 24 hours.
+      - **Network Connectivity:**
+        - Ensure connectivity between Spectrum components and monitored devices.
+        - No significant packet loss or latency.
+
+2. **Real-Time Monitoring Checks**
+    - Verify Spectrum is detecting and processing alarms from monitored devices:
+      - Alarm/Event Dashboard is populating data correctly.
+      - Critical events are being escalated as per thresholds.
+      - Devices are correctly categorized in models.
+    - Check polling intervals:
+      - Devices are being polled at expected intervals.
+      - Responses are within acceptable latency limits.
+    - SNMP and ICMP settings:
+      - Ensure devices can communicate with Spectrum using these protocols.
+
+3. **Incident Response Checklist**
+    - Steps to take when a fault is detected:
+      - **Verify Logs:**
+        - Access Spectrum logs (e.g., `$SPECROOT/SS/Logs`) for errors or anomalies.
+        - Identify if errors are related to services, database, or network connectivity.
+      - **Engage SME:**
+        - Contact the Subject Matter Expert for initial troubleshooting.
+        - Document findings in the incident ticket.
+      - **Pre-Vendor Escalation Checks:**
+        - Attempt restarts of affected services (e.g., SpectroSERVER).
+        - Clear stale sessions in `$SPECROOT/bin/clearCache`.
+        - Validate configurations in the Admin Console.
+
+4. **Vendor Engagement Protocol**
+    - When to escalate:
+      - Critical alarms not being generated or processed.
+      - Persistent service crashes or database issues.
+      - Network device communication failing despite configurations.
+    - What to include in the case:
+      - Summary of the issue.
+      - Logs from Spectrum components.
+      - Steps already taken for troubleshooting.
+      - Impact analysis (number of devices affected, criticality to operations).
+
+5. **Periodic Maintenance Checklist**
+    - Weekly/Monthly tasks:
+      - Backup configurations and databases.
+      - Clean up old logs to free up disk space.
+      - Apply patches and updates (coordinate with vendor if needed).
+      - Validate discovery of new devices in the network.
+      - Perform failover testing (if applicable).
+
+---
+
+#### **3. Roles and Responsibilities**
+
+| Role               | Responsibility                                                 |
+|--------------------|-------------------------------------------------------------|
+| **Spectrum SME**    | Perform initial troubleshooting, maintain tool health.        |
+| **Command Center** | Monitor tool and escalate issues to SME or vendor.            |
+| **Vendor Support**  | Provide advanced troubleshooting and patches.                 |
+| **IT Manager**      | Approve vendor escalations and oversee critical incidents.    |
+
+---
+
+#### **4. Escalation Matrix**
+Include contact details and escalation points:
+- **Internal SME Contact:**
+  - Name:
+  - Email:
+  - Phone:
+- **Vendor Contact:**
+  - Case submission link:
+  - Support email:
+  - Support phone:
+  - SLA details:
+- **Emergency Escalation:**
+  - Vendor manager contact details.
+
+---
+
+#### **5. Checklist Table**
+A table format can simplify tracking:
+
+| **Step**                         | **Description**                                       | **Status** (Yes/No) | **Comments**               |
+|----------------------------------|-------------------------------------------------------|---------------------|----------------------------|
+| Spectrum services running        | Check all services (OneClick, SpectroSERVER, etc.)    |                     |                            |
+| Alarms/events processed          | Verify alarms and events are being detected           |                     |                            |
+| Database health                  | Confirm database is responsive                        |                     |                            |
+| SNMP/ICMP communication          | Test device communication                             |                     |                            |
+| Logs checked                     | Review logs for errors                                |                     |                            |
+| Vendor escalation criteria met   | Confirm escalation is required                        |                     |                            |
+
+---
+
+#### **6. Appendix**
+- Spectrum component documentation links.
+- Log file locations and formats.
+- Troubleshooting commands or scripts (e.g., for clearing cache, checking status).
+
+---

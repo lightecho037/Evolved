@@ -1,0 +1,175 @@
+Good morning [Candidate Name]! thank you so much for making time to meet with us today. My name is Ilian, I am the Application Manager for the Network Tools team here at Citi.
+
+I am going to talk about the expectations for the interview, this interview will run about 60 to 90 minutes, and we’ll focus on two key areas:
+
+First, 
+	We’d like to hear about your professional experience.  
+	how you approach different work situations, 
+	what you’ve learned along the way. 
+	and how you manage challenges.
+	
+Then, 
+	we’ll shift into the technical side of the position.
+	to see how your skills align with the tools and technologies we currently support supporting.
+
+Before we dive in, let me give you a quick snapshot of the role:
+
+First of all. 
+	It’s an application support position with a mix of development and operational tasks.
+	You’d be working mostly with Linux systems, 
+		and there will be times when you need collaborate with engineers to write Python scripts
+		or develop Grafana dashboards for the purpose of monitoring Network infrastructure.
+	
+	Since we provide support to critical systems/applications, 
+		This role includes on-call responsibilities as part of a team rotation. 
+		Typically, this means being on call for one weekend every few weeks, 
+		and occasionally handling after-hours support if critical issues arise.
+		the position is hybrid so you can work from home and office.
+
+We’re looking for someone who’s technically strong, adaptable in a fast-paced environment, and enjoys solving problems while helping teammates learn.
+
+Does that sound like the kind of role you were expecting? Any questions before we get started?"
+
+-----------------------
+
+# Structured Interview Questions - Enterprise Application Manager Role
+
+## PART 1: BEHAVIORAL & EXPERIENCE ASSESSMENT
+
+### Experience & Background
+1. **Walk me through your professional experience**
+   - *Follow-up: What specific achievements are you most proud of?*
+
+2. **Have you worked in environments with frequent changes, such as shifting priorities, new technologies, or organizational restructuring?**
+   - *Follow-up: Give me a specific example and how you handled it.*
+
+### Stress Management
+3. **Describe a time when you were under significant pressure or stress at work. How did you manage it?**
+   - *Follow-up: What strategies do you use to maintain performance under pressure?*
+
+4. **Tell me about a situation where multiple urgent tasks competed for your attention. How did you prioritize and manage your workload?**
+
+### Operations Support Experience
+5. **Do you have experience providing operations support? Please describe your role and responsibilities.**
+   - *Follow-up: Have you been involved in incident response or troubleshooting production issues?*
+
+6. **Describe a critical system outage or technical issue you've helped resolve. What was your approach?**
+
+### Work Schedule Flexibility
+7. **This role may occasionally require work outside standard business hours, including weekends or on-call support. How do you feel about this requirement?**
+   - *Follow-up: Have you worked in similar arrangements before? How did you manage work-life balance?*
+
+### Collaboration & Knowledge Sharing
+8. **Describe a time when you mentored or taught a colleague something new. What was your approach?**
+
+9. **How do you typically collaborate with team members who have different technical backgrounds or skill levels?**
+
+### Career Motivation
+10. **What is motivating you to leave your current position and pursue this opportunity?**
+    - *Follow-up: What are you looking for in your next role that you're not getting currently?*
+
+---
+
+## PART 2: TECHNICAL SKILLS ASSESSMENT
+
+### Python Experience (MANDATORY)
+11. **How many years of Python development experience do you have?**
+
+12. **Describe a recent Python project you worked on. What libraries or frameworks did you use?**
+
+13. **How comfortable are you with Python for:**
+    - Data manipulation and analysis
+    - Web development (Flask/Django)
+    - Automation and scripting
+    - API development
+
+### Linux Systems Experience (MANDATORY)
+14. **What is your experience level with Linux systems administration?**
+
+15. **Which Linux distributions have you worked with, and in what capacity?**
+
+16. **Can you walk me through how you would troubleshoot a performance issue on a Linux server?**
+
+17. **Describe your experience with Linux command line tools for:**
+    - System monitoring
+    - Log analysis
+    - Process management
+    - File system operations
+
+### Grafana Experience (PLUS)
+18. **Have you worked with Grafana for monitoring and visualization?**
+    - *If yes: Describe a dashboard you created or maintained*
+    - *If no: Are you familiar with similar monitoring tools?*
+
+### English Proficiency
+19. **Rate your English proficiency level for:**
+    - Written communication
+    - Verbal communication
+    - Technical documentation
+
+20. **Have you worked in English-speaking environments or with international teams?**
+
+---
+
+## TECHNICAL SCENARIO QUESTIONS
+
+### Problem-Solving Scenarios
+21. **A Python application is running slowly in production. Walk me through your troubleshooting approach.**
+
+22. **You need to set up monitoring for a new application. How would you approach this, and what tools would you consider?**
+
+23. **Describe how you would automate a repetitive operational task using Python and Linux tools.**
+
+---
+
+## CLOSING QUESTIONS
+
+24. **Do you have any questions about the role, team, or company?**
+
+25. **Is there anything else you'd like to share that demonstrates your fit for this position?**
+
+---
+
+## EVALUATION CRITERIA
+
+### Scoring Guide (1-5 scale for each area):
+
+**Experience & Adaptability:**
+- Relevant professional experience
+- Ability to handle change and uncertainty
+- Problem-solving approach
+
+**Operational Readiness:**
+- Stress management capabilities
+- Operations support experience
+- Flexibility with work hours
+
+**Team Collaboration:**
+- Communication skills
+- Willingness to mentor/teach
+- Collaborative approach
+
+**Technical Skills:**
+- Python proficiency (mandatory)
+- Linux systems knowledge (mandatory)
+- Grafana experience (bonus)
+- English communication level
+
+**Cultural Fit:**
+- Motivation and career goals alignment
+- Professional attitude
+- Long-term potential
+
+---
+
+## INTERVIEW LOGISTICS
+
+**Duration:** 60-90 minutes
+**Format:** Part 1 (30-40 min) → Part 2 (30-40 min) → Questions (10 min)
+**Panel:** Application Manager + Technical Lead (recommended)
+
+**Preparation Notes:**
+- Review candidate's resume beforehand
+- Prepare specific follow-up questions based on their background
+- Have technical scenarios ready that relate to your actual work environment
+- Take consistent notes for fair comparison across all 5 candidates

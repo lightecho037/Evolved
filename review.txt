@@ -42,4 +42,10 @@ LDR Ship Srch
 Sricharan has demonstrated an understanding of his role and has expressed interest in developing his technical skills through training and automation initiatives. He also contributed to certain operational activities, including EOVS and VTM remediations, and participated in some L1 support efforts.
 However, overall performance this year did not meet expectations. Engagement and participation levels were inconsistent, with limited attendance in team meetings and minimal collaboration with peers. Task completion often required follow-ups and exceeded expected timelines, impacting overall team efficiency. Several goals outlined earlier in the year, such as completing automation projects and maintaining consistent documentation, were not fully achieved.
 Moving forward, Sricharan is encouraged to focus on improving ownership, accountability, and communication. Increased collaboration with the team, timely completion of deliverables, and active participation in discussions will be essential for meeting expectations in the next review cycle.
+
+Risk and control Srch
+Sricharan demonstrated an understanding of key risk and control activities and participated in several initiatives such as Python automation for vulnerability reporting, Nagios cleanup, and Shark model maintenance. These contributions supported operational stability and ongoing remediation efforts across multiple tools.
+However, overall execution in risk and control management did not consistently meet expectations. Many assigned tasks required repeated follow-ups and lacked timely completion, which affected progress toward remediation and compliance targets. Proactive communication and ownership were limited, and escalation of issues was not always timely.
+While Sricharan has acknowledged these areas for development and has outlined a plan for improving communication and accountability, sustained consistency and reliability will be essential to demonstrate effective control management in the next review cycle. Focus on initiative, responsiveness, and timely delivery will be critical for improvement.
+
 ---

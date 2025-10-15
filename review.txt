@@ -16,3 +16,11 @@ Throughout the year, I have maintained a strong focus on risk management and ope
 I proactively identified potential issues before they caused impact, documented all process changes, and reinforced control practices with my team of SMEs. Our transition to a structured 24/7 operations model and improved incident management processes strengthened control consistency and reduced risk exposure.
 Additionally, I promoted a culture of accountability by reviewing audit requirements, validating configurations, and ensuring system access and operational activities complied with internal policies. These actions demonstrate a proactive approach to maintaining a strong control environment and supporting organizational compliance objectives.
 ----
+
+financial
+
+Throughout the year, I contributed to strong financial performance by ensuring efficient use of resources and reducing operational costs across multiple network automation platforms. By completing key projects such as the RHEL 8 migration, Corvil replacements, and Cisco Prime decommissioning, we successfully retired legacy systems and avoided extended support costs.
+I also helped optimize vendor engagement by coordinating timely upgrades and reducing unplanned maintenance expenses through proactive monitoring and issue resolution. The introduction of a 24/7 support model improved service continuity and reduced escalations, translating into measurable cost avoidance.
+Overall, I maintained strict budget awareness, maximized existing tool capabilities instead of unnecessary expansions, and supported initiatives that aligned with cost efficiency and operational excellence.
+
+---

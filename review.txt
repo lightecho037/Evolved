@@ -49,3 +49,12 @@ However, overall execution in risk and control management did not consistently m
 While Sricharan has acknowledged these areas for development and has outlined a plan for improving communication and accountability, sustained consistency and reliability will be essential to demonstrate effective control management in the next review cycle. Focus on initiative, responsiveness, and timely delivery will be critical for improvement.
 
 ---
+
+sur
+Suriya has consistently demonstrated outstanding leadership qualities throughout the year by taking initiative, maintaining accountability, and ensuring operational stability across multiple critical applications. He regularly goes above and beyond his assigned responsibilities, leading by example and setting a high standard of performance for his peers.
+His proactive approach in managing DX Spectrum, NJPS, NSO, and Tangoe activities has significantly contributed to operational reliability, timely patching, and compliance adherence. Suriya consistently steps in to support other SMEs when complex issues arise, sharing knowledge and ensuring that key production systems remain stable.
+He has also shown strong coordination skills in planning and executing tasks such as server upgrades, configuration remediations, and certificate renewals. His ability to balance multiple priorities while maintaining quality and precision reflects his commitment to both individual excellence and team success.
+Overall, Suriya demonstrates a leadership mindset grounded in ownership, teamwork, and continuous improvement. His dedication and dependability make him a trusted resource for peers and a key contributor to the success of the operations team.
+
+---
+

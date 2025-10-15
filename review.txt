@@ -1,0 +1,9 @@
+Throughout this year, I have consistently met expectations while managing a portfolio of over 20 network automation and monitoring tools, including HP Network Automation, Broadcom DX NetOps, Cisco DNA, Arista CloudVision, and more. I lead a team of nine SMEs, balancing both technical hands-on work and strategic coordination to ensure operational stability and continuous improvement.
+A key highlight of the year was our team’s success in completing several major projects:
+RHEL 8 migration across multiple systems.
+Corvil replacement and Broadcom DX NetOps OS/application upgrades.
+Cisco Prime decommissioning and onboarding of new tools such as Arista CloudVision and Cisco DNA to operations.
+We also effectively managed three major incidents (MIMs) by partnering closely with vendors and engineering teams to restore functionality quickly and prevent business impact.
+Operationally, we strengthened our model by establishing dedicated 24/7 support, including L2 and L3 tiers, which significantly improved responsiveness and knowledge transfer. We also closed critical SD-WAN monitoring gaps by enhancing Nagios alerts and developing IPSLA dashboards to provide better visibility and analytics. Collaboration remained a core focus, as we worked regularly with engineering, ECC, and compliance teams to deliver solutions aligned with enterprise standards.
+On the development side, I continued expanding my own technical and leadership skills, focusing on areas such as AI, Python, Grafana, and network automation technologies. Looking ahead, I plan to concentrate on supporting the new tool currently under development and exploring emerging network technologies to strengthen operational intelligence and automation capabilities.
+Overall, I believe my performance this year demonstrates reliability, teamwork, technical leadership, and a strong commitment to continuous improvement across our operations.

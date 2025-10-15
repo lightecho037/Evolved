@@ -24,3 +24,10 @@ I also helped optimize vendor engagement by coordinating timely upgrades and red
 Overall, I maintained strict budget awareness, maximized existing tool capabilities instead of unnecessary expansions, and supported initiatives that aligned with cost efficiency and operational excellence.
 
 ---
+Franchise
+
+This year, I consistently supported our internal clients by ensuring the stability and reliability of over 20 network automation and observability tools critical to business operations. Through proactive maintenance, timely upgrades, and rapid response to incidents, we minimized disruption and enabled our partners to meet their service commitments to end users.
+I worked closely with engineering, ECC, and compliance teams to align deliverables with client needs, enhance monitoring visibility, and accelerate resolution of high-priority issues. By introducing new dashboards, improving SD-WAN event monitoring, and onboarding new tools such as Cisco DNA and Arista CloudVision, we improved transparency and responsiveness across the network ecosystem.
+My team’s ability to deliver consistent results and maintain strong collaboration helped reinforce client confidence, strengthen franchise reputation, and support operational excellence across the enterprise.
+
+--

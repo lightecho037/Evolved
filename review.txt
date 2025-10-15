@@ -56,5 +56,18 @@ His proactive approach in managing DX Spectrum, NJPS, NSO, and Tangoe activities
 He has also shown strong coordination skills in planning and executing tasks such as server upgrades, configuration remediations, and certificate renewals. His ability to balance multiple priorities while maintaining quality and precision reflects his commitment to both individual excellence and team success.
 Overall, Suriya demonstrates a leadership mindset grounded in ownership, teamwork, and continuous improvement. His dedication and dependability make him a trusted resource for peers and a key contributor to the success of the operations team.
 
+Suriya has consistently demonstrated exemplary performance in maintaining and strengthening the risk and control posture of our environment. He proactively identified potential issues and took full ownership of coordinating vulnerability remediations, ensuring timely closure of risk items and preventing audit escalations.
+His strong focus on audit readiness and process discipline has resulted in timely submission of evidence and seamless audit cycles. Suriya’s contributions in automation initiatives—including disk management, graceful shutdowns, and configuration cleanup—have directly reduced operational risk and improved system resilience.
+He also showed exceptional collaboration across teams and vendors, particularly during DR testing with Tangoe, where his leadership ensured smooth execution of complex, cross-system recovery procedures. His involvement across multiple tools—DX Spectrum, NJPS, NSO, and Tangoe—demonstrates a deep sense of accountability beyond his direct scope.
+Overall, Suriya’s attention to compliance, proactive coordination, and consistent delivery under pressure set a high benchmark for operational excellence and control maturity within the team.
+ 
+Suriya has demonstrated exceptional alignment with financial objectives by optimizing operational efficiency and reducing unnecessary costs through proactive automation and resource management. His automation initiatives have reduced manual intervention, minimized outages, and improved system reliability, resulting in measurable time and cost savings for the organization.
+He effectively managed vendor interactions and case handling, ensuring quick resolutions and avoiding potential escalation costs. By implementing process efficiencies and maintaining high service uptime, Suriya contributed to strong operational stability, which directly supports the organization’s financial performance.
+His consistent ownership, attention to detail, and ability to identify opportunities for efficiency have delivered tangible financial value. Suriya continues to exemplify responsible resource utilization and cost-conscious decision-making across all assigned tools and projects.
+ 
+Suriya has consistently delivered outstanding results that positively impact both client satisfaction and franchise reputation. His proactive approach to resolving production issues, minimizing outages, and collaborating closely with SMEs and engineering teams has significantly improved system uptime and service continuity.
+Through his commitment to operational excellence, he has enhanced the client experience by reducing incident resolution time and ensuring seamless performance of business-critical tools. His focus on reliability, quick response, and cross-team coordination has strengthened trust and confidence among stakeholders.
+Suriya continuously demonstrates ownership that extends beyond his immediate responsibilities, supporting multiple applications to ensure smooth client operations. His efforts exemplify the standards of accountability and quality expected from an exemplary performer
+ 
 ---
 
